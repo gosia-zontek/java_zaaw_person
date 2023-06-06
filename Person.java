@@ -4,7 +4,7 @@ public abstract class Person {
     private String name;
     private String address;
 
-    //brakuje metody abstrakcyjnej showdetails
+   
     public Person(String name, String address) {
         this.name = name;
         this.address = address;
